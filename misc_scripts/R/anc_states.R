@@ -1,4 +1,5 @@
 setwd("~/Analyses/2018/betalain_reconstruction/1pergenus/Caryophyllales_3524/round1")
+setwd("D:/Dropbox/betalain_reconstruction/1pergenus/Caryophyllales_3524/round1/")
 library("phytools") # loads ape
 library("phangorn")
 
@@ -112,6 +113,22 @@ rownames(polymat) <- c("A","B","A+B")
 
 polymk_simmap <- make.simmap(tr,pigment_states_polymk,model = polymat,nsim = 1000,pi=c(1.0,0.0,0.0))
 desc_polymk_simmap <- describe.simmap(polymk_simmap)
+# R v3.6.0 phytools 0.6-75
+###
+#1000 trees with a mapped discrete character with states:
+#  A, A+B, B 
+#
+#trees have 17.868 changes between states on average
+#
+#changes are of the following types:
+#  A,A+B A,B A+B,A A+B,B B,A B,A+B
+#x->y   2.2   0 7.667 8.001   0     0
+#
+#mean total time spent in each state is:
+#  A            B          A+B    total
+#raw  4640.6758272 8567.7834440 218.46090745 13426.92
+#prop    0.3456247    0.6381049   0.01627037     1.00
+###
 multicols <- setNames(c("#0066ff","purple","#ff3399"),c("A","A+B","B"))
 nodelabels(node=1:tr$Nnode+Ntip(tr),pie=desc_polymk_simmap$ace,piecol=multicols,cex=0.2)
 
