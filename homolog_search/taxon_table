@@ -245,13 +245,11 @@ FROP	Orobanchaceae_Epifagus_virginiana
 FUMQ	Lamiaceae_Nepeta_cataria
 FUPX	Asteraceae_Tragopogon_pratensis
 Fves	Rosaceae_Fragaria_vesca
-FVXD	Amaranthaceae_Beta_maritima
 FVXD	Chenopodiaceae_Beta_maritima
 FWBF	Alangiaceae_Alangium_chinense
 FWCQ	Clusiaceae_Garcinia_oblongifolia
 FXGI	Stylidiaceae_Stylidium_adnatum
 FYSJ	Polygonaceae_Fallopia_convolvulus
-FYSJ	Polygonaceae_Polygonum_convolvulus
 FYTP	Daphniphyllaceae_Daphniphyllum_macropodum
 FYUH	Lamiaceae_Lavandula_angustifolia
 FZJL	Austrobaileyaceae_Austrobaileya_scandens
@@ -259,7 +257,6 @@ FZQN	Caryophyllaceae_Silene_latifolia
 GBVZ	Ranunculaceae_Thalictrum_thalictroides
 GCFE	Verbenaceae_Verbena_hastata
 GCYL	Portulacaceae_Portulaca_suffrutescens
-GCYL	Portulacaceae_Portulaca_suffruticosa
 GDKK	Colchicaceae_Gloriosa_superba
 GDZS	Byblidaceae_Byblis_gigantea
 GEHT	Fabaceae_Gleditsia_triacanthos
@@ -297,7 +294,6 @@ HATH	Poaceae_Aristida_stricta
 HBHB	Sapindaceae_Aesculus_pavia
 HBUQ	Chrysobalanaceae_Licania_michauxii
 HDSY	Amaranthaceae_Aerva_javanica
-HDSY	Amaranthaceae_Aerva_persica
 HDWF	Melianthaceae_Francoa_appendiculata
 HENI	Fagaceae_Quercus_shumardii
 HerSFB	Caryophyllaceae_Herniaria_latifolia
@@ -757,7 +753,6 @@ SFB29	Nyctaginaceae_Pisonia_umbellifera
 SFB30	Petiveriaceae_Seguieria_aculeata
 SFB31	Phytolaccaceae_Phytolacca_dioica
 SFB32	Nyctaginaceae_Bougainvillea_stipitata
-SFKQ	Petiveriaceae_Hilleria_latifolia
 SFKQ	Phytolaccaceae_Hilleria_latifolia
 SHEZ	Caryophyllaceae_Dianthus_caryophyllus
 SIBR	Scrophulariaceae_Celsia_arcturus
@@ -778,7 +773,6 @@ SLOI	Saxifragaceae_Tiarella_polyphylla
 Slyc	Solanaceae_Solanum_lycopersicum
 SLYR	Fabaceae_Cladrastis_lutea
 Sm1011	Caryophyllaceae_Spergularia_marina
-SMMC	Amaranthaceae_Chenopodium_quinoa
 SMMC	Chenopodiaceae_Chenopodium_quinoa
 SMUR	Boraginaceae_Lennoa_madreporoides
 SNNC	Lamiaceae_Leonurus_japonicus
@@ -878,7 +872,6 @@ VFFP	Sapindaceae_Acer_negundo
 VGHH	Ranunculaceae_Hydrastis_canadensis
 VGVI	Loranthaceae_Dendropemon_caribaeus
 VHZV	Fabaceae_Gleditsia_sinensis
-VJPU	Nyctaginaceae_Boerhavia_burbidgeana
 VJPU	Nyctaginaceae_Boerhavia_dominii
 VKJD	Maesaceae_Maesa_lanceolata
 VLNB	Fabaceae_Gompholobium_polymorphum
@@ -907,7 +900,6 @@ WCOR	Poaceae_Thyridolepis_multiculmis
 WEAC	Acanthaceae_Strobilanthes_dyeriana
 WEQK	Mackinlayaceae_Centella_asiatica
 WFBF	Berberidaceae_Podophyllum_peltatum
-WGET	Amaranthaceae_Kochia_scoparia
 WGET	Chenopodiaceae_Bassia_scoparia
 WHNV	Lamiaceae_Micromeria_fruticosa
 WIGA	Lauraceae_Persea_borbonia
@@ -973,7 +965,6 @@ YKQR	Hamamelidaceae_Hamamelis_virginiana
 YKZB	Plantaginaceae_Plantago_maritima
 YMES	Arecaceae_Typhonium_blumei
 YNFJ	Microteaceae_Microtea_debilis
-YNFJ	Miroteaceae_Microtea_debilis
 YNUE	Lythraceae_Punica_granatum
 YPIC	Poaceae_Microstegium_vimineum
 YQIJ	Boraginaceae_Phacelia_campanularia
