@@ -13,4 +13,6 @@ alignments contains all the alignments used in this study:
 * DODA_alpha: the reduced DODAa sequences used to produce the tree in Figure S16
 * DODA_asr: the subsampled DODAa alignment used to produce the tree in Fig Figure 7 and Figure S12 
 
-trees contains the newick files of the inferred DODA trees, inferred from the cleaned (-cln) version of each alignment. Labels are Rapid Boostrap Support and SH-aLRT support (RBS/SH). The Caryophyllales tree was inferred from the alignment as is, and branch labels are RBS only. 
+trees contains the newick files of the inferred DODA trees, inferred from the cleaned (-cln) version of each alignment. Labels are Rapid Boostrap Support and SH-aLRT support (RBS/SH). The Caryophyllales tree was inferred from the alignment as is, and branch labels are RBS only.
+
+If you have any questions with these scripts or data, don't hesitate to open an issue or contact me directly at nw387@cam.ac.uk 
