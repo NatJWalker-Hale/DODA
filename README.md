@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/186807430.svg)](https://zenodo.org/badge/latestdoi/186807430)
+
 ## Sheehan et al. Evolution of L-DOPA 4,5-dioxygenase activity allows for recurrent specialisation to betalain pigmentation in Caryophyllales 
 
 All code in this repository is provided as-is and comes with _absolutely no warranty_. Feel free to use (at your own risk) and share, but please cite the paper above (DOI coming shortly) when you do. 
