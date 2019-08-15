@@ -1,8 +1,8 @@
 [![DOI](https://zenodo.org/badge/186807430.svg)](https://zenodo.org/badge/latestdoi/186807430)
 
-## Sheehan et al. Evolution of L-DOPA 4,5-dioxygenase activity allows for recurrent specialisation to betalain pigmentation in Caryophyllales 
+## Sheehan et al. (2019) Evolution of L-DOPA 4,5-dioxygenase activity allows for recurrent specialisation to betalain pigmentation in Caryophyllales 
 
-All code in this repository is provided as-is and comes with _absolutely no warranty_. Feel free to use (at your own risk) and share, but please cite the paper above (DOI coming shortly) when you do. 
+All code in this repository is provided as-is and comes with _absolutely no warranty_. Feel free to use (at your own risk) and share, but please cite the paper above when you do. It is now out in early release, with DOI 10.1111/nph.16089. 
 
 Homolog scripts come courtesy of Ya Yang and Stephen Smith, citation is Lopez-Nieves et al 2018: Relaxation of tyrosine pathway regulation underlies the evolution of betalain pigmentation in Caryophyllales and are sourced from https://bitbucket.org/yangya/adh_2016/
 
