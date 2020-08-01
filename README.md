@@ -2,7 +2,11 @@
 
 ## Sheehan et al. (2019) Evolution of L-DOPA 4,5-dioxygenase activity allows for recurrent specialisation to betalain pigmentation in Caryophyllales 
 
-All code in this repository is provided as-is and comes with _absolutely no warranty_. Feel free to use (at your own risk) and share, but please cite the paper above when you do. It is available [here](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16089). 
+All code in this repository is provided as-is and comes with _absolutely no warranty_. Feel free to use (at your own risk) and share, but please cite the paper above when you do. It is available [here](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.16089).
+
+The full citation is:
+
+> Sheehan, H., Feng, T., Walker‐Hale, N., Lopez‐Nieves, S., Pucker, B., Guo, R., Yim, W. C., Badgami, R., Timoneda, A., Zhao, L., Tiley, H., Copetti, D., Sanderson, M. J., Cushman, J. C., Moore, M. J., Smith, S. A., & Brockington, S. F. (2020). Evolution of l-DOPA 4,5-dioxygenase activity allows for recurrent specialisation to betalain pigmentation in Caryophyllales. New Phytologist, 227(3), 914–929. https://doi.org/10.1111/nph.16089
 
 Homolog scripts come courtesy of Ya Yang and Stephen Smith, citation is [Lopez-Nieves et al 2018](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.14822) and are sourced from https://bitbucket.org/yangya/adh_2016/
 
