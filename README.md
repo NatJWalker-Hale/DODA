@@ -13,7 +13,8 @@ alignments contains all the alignments used in this study:
 * Caryophyllales_3524_outpart: partitioning file 
 * DODA_full: all DODA sequences used to produce the tree in Figure 6 and Figure S5
 * DODA_alpha: the reduced DODAa sequences used to produce the tree in Figure S16
-* DODA_asr: the subsampled DODAa alignment used to produce the tree in Fig Figure 7 and Figure S12 
+* DODA_asr: the subsampled DODAa alignment used to produce the tree in Fig Figure 7 and Figure S12
+  * The alignment file with the suffix .name contains sequences with taxon codes replaced with full taxon names according to the correspondence in /homolog_search/taxon_table
 
 trees contains the newick files of the inferred DODA trees, inferred from the cleaned (-cln) version of each alignment. Labels are Rapid Boostrap Support and SH-aLRT support (RBS/SH). The Caryophyllales tree was inferred from the alignment as is, and branch labels are RBS only.
 
